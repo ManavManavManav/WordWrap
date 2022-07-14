@@ -1,5 +1,4 @@
 Manav Gohil mrg225
-Manankumar Patel mpp128
 
 We are going to test if the program wrap the txt to given width. If no file name is given, the program will read from standard input
 and print to standard ouput. If a presented file name is a regular file, the program reads from the file and prints to standard ouput.
